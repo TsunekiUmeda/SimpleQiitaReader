@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleQiitaReader</string>
+    <string name="fetch">取得</string>
+    <string name="hint_text">TAG名入力</string>
+</resources>
